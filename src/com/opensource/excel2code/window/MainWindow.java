@@ -25,7 +25,7 @@ import java.util.Map;
  */
 public class MainWindow extends java.awt.Frame {
     private static final long serialVersionUID = -4259339680151285634L;
-    private static final SimpleDateFormat sdf = new SimpleDateFormat("YYYY-MM-dd hh:mm:ss");//时间格式
+    private static final SimpleDateFormat sdf = new SimpleDateFormat("yyyy-MM-dd hh:mm:ss");//时间格式
 
     FileDialog fileDialog = null;//文件选择器
     Map<String, Table> excelTables = new HashMap<String, Table>();
