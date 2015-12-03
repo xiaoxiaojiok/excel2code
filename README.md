@@ -5,7 +5,7 @@
 
 - 支持数据库：**MsSqlServer 2005+**、**Oracle 10g+**、**Mysql 5.5+**<br>
 
-- 运行环境：Java 1.7+、Window XP+<br>
+- 运行环境：Java 1.6+、Window XP+<br>
 
 ----------
 
