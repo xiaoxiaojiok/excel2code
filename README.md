@@ -19,6 +19,6 @@ windows环境下，进入项目`bin`目录，双击`run.bat`
 
 - 填写*DB Configuration*，点击**Test**测试数据库连接
 
-- 点击**Select File**，选择一个配置好的*Excel*表，**SyncDB**同步数据库，**Generate Code**生成实体类代码
+- 点击**Select File**，选择一个已配置好的*Excel*表，**SyncDB**同步数据库，**Generate Code**生成实体类代码
 
 ----------
