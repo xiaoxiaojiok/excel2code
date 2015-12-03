@@ -47,7 +47,7 @@ public class MainWindow extends java.awt.Frame {
 
         //初始化文件选择器
         fileDialog = new FileDialog(this);
-//        fileDialog.setMultipleMode(true);//多选
+        fileDialog.setMultipleMode(true);//多选
 
         //初始化窗口位置
         Dimension screenSize = Toolkit.getDefaultToolkit().getScreenSize();
